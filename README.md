@@ -175,4 +175,4 @@ Technical coverage does not guarantee a mark: the demonstration, understanding, 
 
 ## AI assistance acknowledgement
 
-OpenAI Codex assisted with interpreting the assessment, designing the classes and schema, generating application code and tests, checking behaviour, and drafting documentation. This acknowledgement describes the assistance provided; it does not claim that the student has already reviewed or independently written the generated code. Before submission, the student must review, understand, and adapt the work in accordance with the assessment's individual-authorship rules and be able to explain it during the live demonstration.
+Ai was used ethically to help me research and draw the architecture of the project and help me it help me structure my codes and readme
